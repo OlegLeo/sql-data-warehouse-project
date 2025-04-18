@@ -15,7 +15,7 @@ The data architecture for this project follows Medallion Architecture **Bronze**
 
 ---
 
-## Data Flow Diagram 
+## 🌊 Data Flow Diagram 
 ![Data Flow](docs/data_flow.png)
 
 ## 📖 Project Overview
